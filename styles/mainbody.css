@@ -1,0 +1,53 @@
+.Determination{
+  margin-top: 50px;
+  font-family: popins;
+  font-size: 29.824px;
+  font-weight: 700;
+  line-height: 40.0835px;
+}
+
+.ss-curve{
+  margin-top: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Learn-More{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+
+  border-style: solid;
+  border-color: grey;
+  padding: 14px 30px;
+  font-size: 20px;
+  cursor: pointer;
+  margin-top: 10px;
+  font-family: Poppins;
+  color: grey;
+  background-color: white;
+  transition: color 0.5s;
+
+
+
+  transition: background-color 0.5s;
+  
+  text-decoration:none;
+
+
+}
+
+.Learn-More:hover {
+  color: white;
+  opacity: 1;
+  
+  background-color: grey;
+  
+
+  text-decoration:none;
+
+
+}
+
